@@ -14,8 +14,9 @@ transformers
 
 huggingface-hub
 
-pythondotenv
 dotenv
 
 numpy
 scikit-learn
+
+streamlit
