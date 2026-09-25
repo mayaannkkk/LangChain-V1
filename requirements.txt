@@ -1,8 +1,7 @@
 langchain
 langchain-core
+langchain-groq
 
-langchain-openai
-openai
 
 langchain-anthropic
 
